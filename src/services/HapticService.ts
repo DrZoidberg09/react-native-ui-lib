@@ -1,4 +1,4 @@
-import {HapticFeedbackPackage} from 'optionalDeps';
+import { HapticFeedbackPackage } from "../optionalDependencies";
 
 const options = {
   enableVibrateFallback: false,
