@@ -2,7 +2,7 @@ import _ from 'lodash';
 import React, {PureComponent} from 'react';
 import {Platform, StyleSheet, LayoutAnimation, LayoutChangeEvent, ImageStyle, TextStyle} from 'react-native';
 import {asBaseComponent, forwardRef, Constants} from '../../commons/new';
-import {Colors, Typography, BorderRadiuses} from 'style';
+import {Colors, Typography, BorderRadiuses} from '../../style';
 import TouchableOpacity from '../touchableOpacity';
 import type {Dictionary, ComponentStatics} from '../../typings/common';
 import Text from '../text';
